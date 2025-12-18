@@ -120,7 +120,7 @@ header nav ul li a {
     align-items: center;
     text-align: center;
     /* 背景画像は適宜変更してください */
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('placeholder-hero.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1920&q=80') no-repeat center center/cover;
     color: #fff;
     padding-top: 70px; /* 固定ヘッダーの分 */
 }
@@ -330,4 +330,5 @@ footer {
         grid-template-columns: 100px 1fr; /* 項目名を狭く */
         font-size: 14px;
     }
+
 }
